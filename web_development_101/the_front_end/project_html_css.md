@@ -1866,6 +1866,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Moses Ogwo's Solution (Easy)](https://github.com/mosesogwo/google-homepage) - [View in Browser (Easy)](https://mosesogwo.github.io/google-homepage/)
 * [Ben Fowler's Solution (Easy)](https://github.com/benfowler04/google-homepage) - [View in Browser](https://benfowler04.github.io/google-homepage/)
 * [Lameck Otieno's Solution (Easy)](https://github.com/Lameck1/google-homepage/tree/gh-pages) - [View in Browser](https://lameck1.github.io/google-homepage/)
+* [goldkoyne88's Solution (Easy)](https://github.com/goldkoyne88/google_homepage) - [View in Browser](https://goldkoyne88.github.io/google_homepage/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
